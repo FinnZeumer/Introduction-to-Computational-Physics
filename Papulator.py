@@ -12,7 +12,6 @@ from IPython.display import display, Math, Latex, HTML
 import string
 from enum import Enum
 
-
 # ==================================================
 #   Default basic Methods
 # ==================================================
