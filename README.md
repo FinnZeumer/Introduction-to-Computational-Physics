@@ -1,1 +1,1 @@
-Ultra cool Python code for the module *introduction to computer physics*
+Ultra cool Python code for the module *introduction to computational physics*
