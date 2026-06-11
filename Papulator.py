@@ -507,7 +507,7 @@ class Colors(str, Enum):
 #   Default Plotting system
 # ==================================================
 # Default Sytling
-def plot_me(title:str=None, xlabel:str=None, ylabel:str=None, safe_as:str=None):
+def plot_me(title:str=None, xlabel:str=None, ylabel:str=None, e:str=None):
     from cycler import cycler
     import matplotlib.pyplot as plt
 
